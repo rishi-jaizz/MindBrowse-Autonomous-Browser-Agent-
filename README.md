@@ -74,15 +74,6 @@ The agent will open the browser, perform the search, and return the results auto
 
 ---
 
-## Future Improvements
-
-* Add screenshot capturing and reporting.
-* Handle CAPTCHA and authentication flows.
-* Integrate with Airtable, Notion, or CRMs for data storage.
-* Support multiple concurrent browser sessions.
-
----
-
 ## Author
 
 Rishi Jaiswal
